@@ -20,7 +20,7 @@ efficient handling of textual data, the `Text` type can be used.
 
 As an optional extension to this exercise, you can
 
-- Read about [string types](https://haskell-lang.org/tutorial/string-types) in Haskell.
+- Read about [string types](https://tech.fpcomplete.com/haskell/tutorial/string-types/) in Haskell.
 - Add `- text` to your list of dependencies in package.yaml.
 - Import `Data.Text` in [the following way](https://hackernoon.com/4-steps-to-a-better-imports-list-in-haskell-43a3d868273c):
 
